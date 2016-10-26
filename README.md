@@ -12,10 +12,12 @@
 						<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 60.8%;">
 						</div>
 						<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*r79ZKNYNCncbUFa_Vd_y3w.jpeg" data-width="4926" data-height="2993" data-is-featured="true">
+							<img src="https://cdn-images-1.medium.com/freeze/max/60/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
 							<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
 							</canvas>
 							<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg">
 							<noscript class="js-progressiveMedia-inner">
+								<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg">
 							</noscript>
 						</div>
 					</div>
