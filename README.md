@@ -1,313 +1,304 @@
-# twitter_printer_redBlue
 
-
-<!DOCTYPE html>
-															<div class="section-content">
-																<div class="section-inner layoutSingleColumn">
-																	<h1 name="1abc" id="1abc" class="graf graf--h3 graf--leading graf--title">
-																		This Election — AMBIENT NONSENSE</h1>
-																		<p name="9775" id="9775" class="graf graf--p graf-after--h3">
-																			These printers use Particle’s Photon, <a href="https://medium.com/u/c9914184139c" data-href="https://medium.com/u/c9914184139c" data-anchor-type="2" data-user-id="c9914184139c" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">
-																			adafruit industries</a>
-																			’s Thermal Printers and <a href="https://medium.com/u/10ab0b09ba3e" data-href="https://medium.com/u/10ab0b09ba3e" data-anchor-type="2" data-user-id="10ab0b09ba3e" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">
-																			IFTTT</a>
-																			’s platform to print in real time everything the candidates say online:</p>
-																		</div>
-																		<div class="section-inner sectionLayout--fullWidth">
-																			<figure name="9870" id="9870" class="graf graf--figure graf--layoutFillWidth graf-after--p">
-																				<div class="aspectRatioPlaceholder is-locked">
-																					<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 60.8%;">
-																					</div>
-																					<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*r79ZKNYNCncbUFa_Vd_y3w.jpeg" data-width="4926" data-height="2993" data-is-featured="true">
-																						<img src="https://cdn-images-1.medium.com/freeze/max/60/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																						<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																						</canvas>
-																						<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg">
-																						<noscript class="js-progressiveMedia-inner">
-																							<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg">
-																						</noscript>
-																					</div>
-																				</div>
-																			</figure>
-																		</div>
-																		<div class="section-inner sectionLayout--outsetColumn">
-																			<figure name="5609" id="5609" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure">
-																				<div class="aspectRatioPlaceholder is-locked" style="max-width: 1020px; max-height: 1360px;">
-																					<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 133.29999999999998%;">
-																					</div>
-																					<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*Z3s9rmpouPfL9v8r37ACGw.jpeg" data-width="2448" data-height="3264" data-action="zoom" data-action-value="1*Z3s9rmpouPfL9v8r37ACGw.jpeg">
-																						<img src="https://cdn-images-1.medium.com/freeze/max/60/1*Z3s9rmpouPfL9v8r37ACGw.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																						<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																						</canvas>
-																						<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*Z3s9rmpouPfL9v8r37ACGw.jpeg">
-																						<noscript class="js-progressiveMedia-inner">
-																							<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Z3s9rmpouPfL9v8r37ACGw.jpeg">
-																						</noscript>
-																					</div>
-																				</div>
-																			</figure>
-																		</div>
-																		<div class="section-inner layoutSingleColumn">
-																			<p name="879e" id="879e" class="graf graf--p graf-after--figure">
-																				It’s not so much about what they tweet, in this configuration. It’s about the piles. The expression of information / propaganda in piles, on both sides. There’s something relaxing about it.</p>
+<div class="section-content">
+	<div class="section-inner layoutSingleColumn">
+		<h1 name="1abc" id="1abc" class="graf graf--h3 graf--leading graf--title">
+			This Election — AMBIENT NONSENSE</h1>
+			<p name="9775" id="9775" class="graf graf--p graf-after--h3">
+				These printers use Particle’s Photon, <a href="https://medium.com/u/c9914184139c" data-href="https://medium.com/u/c9914184139c" data-anchor-type="2" data-user-id="c9914184139c" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">adafruit industries</a>’s Thermal Printers and <a href="https://medium.com/u/10ab0b09ba3e" data-href="https://medium.com/u/10ab0b09ba3e" data-anchor-type="2" data-user-id="10ab0b09ba3e" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">	IFTTT</a>’s platform to print in real time everything the candidates say online:</p>
+			</div>
+			<div class="section-inner sectionLayout--fullWidth">
+				<figure name="9870" id="9870" class="graf graf--figure graf--layoutFillWidth graf-after--p">
+					<div class="aspectRatioPlaceholder is-locked">
+						<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 60.8%;">
+						</div>
+						<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*r79ZKNYNCncbUFa_Vd_y3w.jpeg" data-width="4926" data-height="2993" data-is-featured="true">
+							<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+							</canvas>
+							<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*r79ZKNYNCncbUFa_Vd_y3w.jpeg">
+							<noscript class="js-progressiveMedia-inner">
+							</noscript>
+						</div>
+					</div>
+				</figure>
+			</div>
+			<div class="section-inner sectionLayout--outsetColumn">
+				<figure name="5609" id="5609" class="graf graf--figure graf--layoutOutsetCenter graf-after--figure">
+					<div class="aspectRatioPlaceholder is-locked" style="max-width: 1020px; max-height: 1360px;">
+						<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 133.29999999999998%;">
+						</div>
+						<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*Z3s9rmpouPfL9v8r37ACGw.jpeg" data-width="2448" data-height="3264" data-action="zoom" data-action-value="1*Z3s9rmpouPfL9v8r37ACGw.jpeg">
+							<img src="https://cdn-images-1.medium.com/freeze/max/60/1*Z3s9rmpouPfL9v8r37ACGw.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+							<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+							</canvas>
+							<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/2000/1*Z3s9rmpouPfL9v8r37ACGw.jpeg">
+							<noscript class="js-progressiveMedia-inner">
+								<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/2000/1*Z3s9rmpouPfL9v8r37ACGw.jpeg">
+							</noscript>
+						</div>
+					</div>
+				</figure>
+			</div>
+			<div class="section-inner layoutSingleColumn">
+				<p name="879e" id="879e" class="graf graf--p graf-after--figure">
+					It’s not so much about what they tweet, in this configuration. It’s about the piles. The expression of information / propaganda in piles, on both sides. There’s something relaxing about it.</p>
+				</div>
+				<div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
+					<figure name="b594" id="b594" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;">
+						<div class="aspectRatioPlaceholder is-locked">
+							<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 66.7%;">
+							</div>
+							<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg" data-width="5760" data-height="3840" data-action="zoom" data-action-value="1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg">
+								<img src="https://cdn-images-1.medium.com/freeze/max/60/1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+								<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+								</canvas>
+								<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1200/1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg">
+								<noscript class="js-progressiveMedia-inner">
+									<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg">
+								</noscript>
+							</div>
+						</div>
+					</figure>
+					<figure name="f4bd" id="f4bd" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;">
+						<div class="aspectRatioPlaceholder is-locked">
+							<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 66.7%;">
+							</div>
+							<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*51VrLn_y0ApJWs64ArnAyQ.jpeg" data-width="5760" data-height="3840" data-action="zoom" data-action-value="1*51VrLn_y0ApJWs64ArnAyQ.jpeg">
+								<img src="https://cdn-images-1.medium.com/freeze/max/60/1*51VrLn_y0ApJWs64ArnAyQ.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+								<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+								</canvas>
+								<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1200/1*51VrLn_y0ApJWs64ArnAyQ.jpeg">
+								<noscript class="js-progressiveMedia-inner">
+									<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*51VrLn_y0ApJWs64ArnAyQ.jpeg">
+								</noscript>
+							</div>
+						</div>
+					</figure>
+				</div>
+				<div class="section-inner layoutSingleColumn">
+					<h3 name="938a" id="938a" class="graf graf--h3 graf-after--figure">
+						Diagram</h3>
+						<figure name="694a" id="694a" class="graf graf--figure graf-after--h3">
+							<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 695px;">
+								<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 99.2%;">
+								</div>
+								<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*JdCxKtdP8zjxkNCRhov4lQ.png" data-width="1686" data-height="1673" data-action="zoom" data-action-value="1*JdCxKtdP8zjxkNCRhov4lQ.png">
+									<img src="https://cdn-images-1.medium.com/freeze/max/60/1*JdCxKtdP8zjxkNCRhov4lQ.png?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+									<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+									</canvas>
+									<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*JdCxKtdP8zjxkNCRhov4lQ.png">
+									<noscript class="js-progressiveMedia-inner">
+										<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JdCxKtdP8zjxkNCRhov4lQ.png">
+									</noscript>
+								</div>
+							</div>
+						</figure>
+						<p name="95f5" id="95f5" class="graf graf--p graf-after--figure">
+							The printer is connected to a 9V wall wart (2.0A, if it’s too low the text will come out as gray). You can power the Photon directly with a 3.3–7 power supply or with 5V via the micro usb port.</p>
+							<h3 name="bcd4" id="bcd4" class="graf graf--h3 graf-after--p">
+								IFTTT Sample recipe</h3>
+								<figure name="6027" id="6027" class="graf graf--figure graf-after--h3">
+									<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 708px;">
+										<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 101.1%;">
+										</div>
+										<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*6_H99aAbJGO-FOOZuLHjpg.png" data-width="1426" data-height="1442" data-action="zoom" data-action-value="1*6_H99aAbJGO-FOOZuLHjpg.png">
+											<img src="https://cdn-images-1.medium.com/freeze/max/60/1*6_H99aAbJGO-FOOZuLHjpg.png?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+											<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+											</canvas>
+											<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*6_H99aAbJGO-FOOZuLHjpg.png">
+											<noscript class="js-progressiveMedia-inner">
+												<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6_H99aAbJGO-FOOZuLHjpg.png">
+											</noscript>
+										</div>
+									</div>
+								</figure>
+								<p name="cb2f" id="cb2f" class="graf graf--p graf-after--figure">
+									This <a href="http://ifttt.com/" data-href="http://ifttt.com/" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
+									IFTTT Recipe</a>
+									creates a <a href="https://docs.particle.io/reference/firmware/photon/#particle-subscribe-" data-href="https://docs.particle.io/reference/firmware/photon/#particle-subscribe-" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
+									particle event</a>
+									for each tweet generated from Donald Trump (and another recipe does the same for Hillary).</p>
+									<blockquote name="9c51" id="9c51" class="graf graf--pullquote graf-after--p">
+										If Tweet then Particle Event</blockquote>
+										<p name="32a1" id="32a1" class="graf graf--p graf-after--pullquote">
+											The particle is running code that triggers on every new event of that type, and prints it out in physical space (using <a href="https://medium.com/u/c9914184139c" data-href="https://medium.com/u/c9914184139c" data-anchor-type="2" data-user-id="c9914184139c" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">
+											adafruit industries</a>
+											’s <a href="https://learn.adafruit.com/mini-thermal-receipt-printer/microcontroller" data-href="https://learn.adafruit.com/mini-thermal-receipt-printer/microcontroller" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
+											Thermal Printing library</a>
+											).</p>
+											<h3 name="3b38" id="3b38" class="graf graf--h3 graf-after--p">
+												Code Example</h3>
+												<p name="95d4" id="95d4" class="graf graf--p graf-after--h3">
+													(for <a href="http://build.particle.io" data-href="http://build.particle.io" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
+													build.particle.io</a>
+													)</p>
+													<figure name="708f" id="708f" class="graf graf--figure graf--iframe graf-after--p graf--last">
+														<div class="aspectRatioPlaceholder is-locked">
+															<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 35.699999999999996%;">
+															</div>
+															<div class="progressiveMedia js-progressiveMedia">
+																<img src="https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2366062%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd&amp;width=40" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+																<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
+																</canvas>
+																<div class="iframeContainer">
+																	<IFRAME width="700" height="250" data-src="/media/ac05d406f012712cac048365202845bd?postId=ab763582fa06" data-media-id="ac05d406f012712cac048365202845bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2366062%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen frameborder="0">
+																	</IFRAME>
+																</div>
+																<noscript class="js-progressiveMedia-inner">
+																	<div class="iframeContainer">
+																		<IFRAME width="700" height="250" src="/media/ac05d406f012712cac048365202845bd?postId=ab763582fa06" data-media-id="ac05d406f012712cac048365202845bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2366062%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0">
+																		</IFRAME>
+																	</div>
+																</noscript>
+															</div>
+														</div>
+													</figure>
+												</div>
+											</div>
+										</section>
+									</div>
+									<footer class="u-paddingTop10">
+										<div class="container u-maxWidth740">
+											<div class="row">
+												<div class="col u-size12of12">
+												</div>
+											</div>
+											<div class="row">
+												<div class="col u-size12of12 js-postTags">
+													<div class="u-paddingBottom10">
+														<div class="tags tags--postTags tags--borderless">
+															<a class="link u-baseColor--link"  href="https://medium.com/tag/iot?source=post" data-action-source="post">
+																IoT</a>
+																<a class="link u-baseColor--link"  href="https://medium.com/tag/connected-things?source=post" data-action-source="post">
+																	Connected Things</a>
+																	<a class="link u-baseColor--link"  href="https://medium.com/tag/prototyping?source=post" data-action-source="post">
+																		Prototyping</a>
+																		<a class="link u-baseColor--link"  href="https://medium.com/tag/electronics?source=post" data-action-source="post">
+																			Electronics</a>
+																			<a class="link u-baseColor--link"  href="https://medium.com/tag/ambient-displays?source=post" data-action-source="post">
+																				Ambient Displays</a>
 																			</div>
-																			<div class="section-inner sectionLayout--outsetRow" data-paragraph-count="2">
-																				<figure name="b594" id="b594" class="graf graf--figure graf--layoutOutsetRow is-partialWidth graf-after--p" style="width: 50%;">
-																					<div class="aspectRatioPlaceholder is-locked">
-																						<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 66.7%;">
-																						</div>
-																						<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg" data-width="5760" data-height="3840" data-action="zoom" data-action-value="1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg">
-																							<img src="https://cdn-images-1.medium.com/freeze/max/60/1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																							<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																							</canvas>
-																							<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1200/1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg">
-																							<noscript class="js-progressiveMedia-inner">
-																								<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*HCdbGwZKJUK3ts7hvYCxEQ.jpeg">
-																							</noscript>
-																						</div>
-																					</div>
-																				</figure>
-																				<figure name="f4bd" id="f4bd" class="graf graf--figure graf--layoutOutsetRowContinue is-partialWidth graf-after--figure" style="width: 50%;">
-																					<div class="aspectRatioPlaceholder is-locked">
-																						<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 66.7%;">
-																						</div>
-																						<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*51VrLn_y0ApJWs64ArnAyQ.jpeg" data-width="5760" data-height="3840" data-action="zoom" data-action-value="1*51VrLn_y0ApJWs64ArnAyQ.jpeg">
-																							<img src="https://cdn-images-1.medium.com/freeze/max/60/1*51VrLn_y0ApJWs64ArnAyQ.jpeg?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																							<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																							</canvas>
-																							<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1200/1*51VrLn_y0ApJWs64ArnAyQ.jpeg">
-																							<noscript class="js-progressiveMedia-inner">
-																								<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1200/1*51VrLn_y0ApJWs64ArnAyQ.jpeg">
-																							</noscript>
-																						</div>
-																					</div>
-																				</figure>
+																		</div>
+																	</div>
+																</div>
+																<div class="row js-postActionsFooter">
+																	<div class="postActions col u-size12of12">
+																		<div class="u-floatLeft buttonSet buttonSet--withLabels">
+																			<div class="buttonSet-inner">
+																				<div class="js-actionRecommend" data-post-id="ab763582fa06" data-is-icon-29px="true" data-has-recommend-list="true" data-source="post_actions_footer">
+																					<button class="button button--primary button--large button--chromeless is-touchIconFadeInPulse u-accentColor--buttonNormal button--withIcon button--withSvgIcon u-accentColor--iconLight js-actionRecommendButton"  title="Recommend to share this article with your followers and let the author know you liked it" aria-label="Recommend to share this article with your followers and let the author know you liked it" data-action="upvote" data-action-value="ab763582fa06" data-action-source="post_actions_footer">
+																						<span class="button-defaultState">
+																							<span class="svgIcon svgIcon--heart svgIcon--29px">
+																								<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																									<path d="M16.215 23.716c-.348.288-.984.826-1.376 1.158a.526.526 0 0 1-.68 0c-.36-.307-.92-.78-1.22-1.03C9.22 20.734 3 15.527 3 10.734 3 7.02 5.916 4 9.5 4c1.948 0 3.77.898 5 2.434C15.73 4.898 17.552 4 19.5 4c3.584 0 6.5 3.02 6.5 6.734 0 4.9-6.125 9.96-9.785 12.982zM19.5 5.2c-1.774 0-3.423.923-4.41 2.468a.699.699 0 0 1-.59.323.706.706 0 0 1-.59-.32c-.988-1.54-2.637-2.47-4.41-2.47-2.922 0-5.3 2.49-5.3 5.54 0 4.23 6.19 9.41 9.517 12.19.217.18.566.48.783.66l.952-.79c3.496-2.88 9.348-7.72 9.348-12.05 0-3.05-2.378-5.53-5.3-5.53z"/>
+																								</svg>
+																							</span>
+																						</span>
+																						<span class="button-activeState">
+																							<span class="svgIcon svgIcon--heartFilled svgIcon--29px">
+																								<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																									<path d="M19.5 4c-1.948 0-3.77.898-5 2.434C13.27 4.898 11.448 4 9.5 4 5.916 4 3 7.02 3 10.734c0 4.793 6.227 10 9.95 13.11.296.25.853.723 1.212 1.03.196.166.48.166.677 0 .39-.332 1.02-.87 1.37-1.158 3.66-3.022 9.79-8.08 9.79-12.982C26 7.02 23.08 4 19.5 4z" fill-rule="evenodd"/>
+																								</svg>
+																							</span>
+																						</span>
+																					</button>
+																				</div>
 																			</div>
-																			<div class="section-inner layoutSingleColumn">
-																				<h3 name="938a" id="938a" class="graf graf--h3 graf-after--figure">
-																					Diagram</h3>
-																					<figure name="694a" id="694a" class="graf graf--figure graf-after--h3">
-																						<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 695px;">
-																							<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 99.2%;">
-																							</div>
-																							<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*JdCxKtdP8zjxkNCRhov4lQ.png" data-width="1686" data-height="1673" data-action="zoom" data-action-value="1*JdCxKtdP8zjxkNCRhov4lQ.png">
-																								<img src="https://cdn-images-1.medium.com/freeze/max/60/1*JdCxKtdP8zjxkNCRhov4lQ.png?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																								<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																								</canvas>
-																								<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*JdCxKtdP8zjxkNCRhov4lQ.png">
-																								<noscript class="js-progressiveMedia-inner">
-																									<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*JdCxKtdP8zjxkNCRhov4lQ.png">
-																								</noscript>
-																							</div>
-																						</div>
-																					</figure>
-																					<p name="95f5" id="95f5" class="graf graf--p graf-after--figure">
-																						The printer is connected to a 9V wall wart (2.0A, if it’s too low the text will come out as gray). You can power the Photon directly with a 3.3–7 power supply or with 5V via the micro usb port.</p>
-																						<h3 name="bcd4" id="bcd4" class="graf graf--h3 graf-after--p">
-																							IFTTT Sample recipe</h3>
-																							<figure name="6027" id="6027" class="graf graf--figure graf-after--h3">
-																								<div class="aspectRatioPlaceholder is-locked" style="max-width: 700px; max-height: 708px;">
-																									<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 101.1%;">
-																									</div>
-																									<div class="progressiveMedia js-progressiveMedia graf-image" data-image-id="1*6_H99aAbJGO-FOOZuLHjpg.png" data-width="1426" data-height="1442" data-action="zoom" data-action-value="1*6_H99aAbJGO-FOOZuLHjpg.png">
-																										<img src="https://cdn-images-1.medium.com/freeze/max/60/1*6_H99aAbJGO-FOOZuLHjpg.png?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																										<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																										</canvas>
-																										<img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/1600/1*6_H99aAbJGO-FOOZuLHjpg.png">
-																										<noscript class="js-progressiveMedia-inner">
-																											<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*6_H99aAbJGO-FOOZuLHjpg.png">
-																										</noscript>
-																									</div>
-																								</div>
-																							</figure>
-																							<p name="cb2f" id="cb2f" class="graf graf--p graf-after--figure">
-																								This <a href="http://ifttt.com/" data-href="http://ifttt.com/" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
-																								IFTTT Recipe</a>
-																								creates a <a href="https://docs.particle.io/reference/firmware/photon/#particle-subscribe-" data-href="https://docs.particle.io/reference/firmware/photon/#particle-subscribe-" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
-																								particle event</a>
-																								for each tweet generated from Donald Trump (and another recipe does the same for Hillary).</p>
-																								<blockquote name="9c51" id="9c51" class="graf graf--pullquote graf-after--p">
-																									If Tweet then Particle Event</blockquote>
-																									<p name="32a1" id="32a1" class="graf graf--p graf-after--pullquote">
-																										The particle is running code that triggers on every new event of that type, and prints it out in physical space (using <a href="https://medium.com/u/c9914184139c" data-href="https://medium.com/u/c9914184139c" data-anchor-type="2" data-user-id="c9914184139c" data-action="show-user-card" data-action-type="hover" class="markup--user markup--p-user" target="_blank">
-																										adafruit industries</a>
-																										’s <a href="https://learn.adafruit.com/mini-thermal-receipt-printer/microcontroller" data-href="https://learn.adafruit.com/mini-thermal-receipt-printer/microcontroller" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
-																										Thermal Printing library</a>
-																										).</p>
-																										<h3 name="3b38" id="3b38" class="graf graf--h3 graf-after--p">
-																											Code Example</h3>
-																											<p name="95d4" id="95d4" class="graf graf--p graf-after--h3">
-																												(for <a href="http://build.particle.io" data-href="http://build.particle.io" class="markup--anchor markup--p-anchor" rel="nofollow" target="_blank">
-																												build.particle.io</a>
-																												)</p>
-																												<figure name="708f" id="708f" class="graf graf--figure graf--iframe graf-after--p graf--last">
-																													<div class="aspectRatioPlaceholder is-locked">
-																														<div class="aspectRatioPlaceholder-fill" style="padding-bottom: 35.699999999999996%;">
-																														</div>
-																														<div class="progressiveMedia js-progressiveMedia">
-																															<img src="https://i.embed.ly/1/display/resize?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2366062%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd&amp;width=40" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
-																															<canvas class="progressiveMedia-canvas js-progressiveMedia-canvas">
-																															</canvas>
-																															<div class="iframeContainer">
-																																<IFRAME width="700" height="250" data-src="/media/ac05d406f012712cac048365202845bd?postId=ab763582fa06" data-media-id="ac05d406f012712cac048365202845bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2366062%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" class="progressiveMedia-iframe js-progressiveMedia-iframe" allowfullscreen frameborder="0">
-																																</IFRAME>
-																															</div>
-																															<noscript class="js-progressiveMedia-inner">
-																																<div class="iframeContainer">
-																																	<IFRAME width="700" height="250" src="/media/ac05d406f012712cac048365202845bd?postId=ab763582fa06" data-media-id="ac05d406f012712cac048365202845bd" data-thumbnail="https://i.embed.ly/1/image?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2366062%3Fv%3D3%26s%3D400&amp;key=4fce0568f2ce49e8b54624ef71a8a5bd" allowfullscreen frameborder="0">
-																																	</IFRAME>
-																																</div>
-																															</noscript>
-																														</div>
-																													</div>
-																												</figure>
-																											</div>
-																										</div>
-																									</section>
-																								</div>
-																								<footer class="u-paddingTop10">
-																									<div class="container u-maxWidth740">
-																										<div class="row">
-																											<div class="col u-size12of12">
-																											</div>
-																										</div>
-																										<div class="row">
-																											<div class="col u-size12of12 js-postTags">
-																												<div class="u-paddingBottom10">
-																													<div class="tags tags--postTags tags--borderless">
-																														<a class="link u-baseColor--link"  href="https://medium.com/tag/iot?source=post" data-action-source="post">
-																															IoT</a>
-																															<a class="link u-baseColor--link"  href="https://medium.com/tag/connected-things?source=post" data-action-source="post">
-																																Connected Things</a>
-																																<a class="link u-baseColor--link"  href="https://medium.com/tag/prototyping?source=post" data-action-source="post">
-																																	Prototyping</a>
-																																	<a class="link u-baseColor--link"  href="https://medium.com/tag/electronics?source=post" data-action-source="post">
-																																		Electronics</a>
-																																		<a class="link u-baseColor--link"  href="https://medium.com/tag/ambient-displays?source=post" data-action-source="post">
-																																			Ambient Displays</a>
-																																		</div>
-																																	</div>
-																																</div>
-																															</div>
-																															<div class="row js-postActionsFooter">
-																																<div class="postActions col u-size12of12">
-																																	<div class="u-floatLeft buttonSet buttonSet--withLabels">
-																																		<div class="buttonSet-inner">
-																																			<div class="js-actionRecommend" data-post-id="ab763582fa06" data-is-icon-29px="true" data-has-recommend-list="true" data-source="post_actions_footer">
-																																				<button class="button button--primary button--large button--chromeless is-touchIconFadeInPulse u-accentColor--buttonNormal button--withIcon button--withSvgIcon u-accentColor--iconLight js-actionRecommendButton"  title="Recommend to share this article with your followers and let the author know you liked it" aria-label="Recommend to share this article with your followers and let the author know you liked it" data-action="upvote" data-action-value="ab763582fa06" data-action-source="post_actions_footer">
-																																					<span class="button-defaultState">
-																																						<span class="svgIcon svgIcon--heart svgIcon--29px">
-																																							<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																								<path d="M16.215 23.716c-.348.288-.984.826-1.376 1.158a.526.526 0 0 1-.68 0c-.36-.307-.92-.78-1.22-1.03C9.22 20.734 3 15.527 3 10.734 3 7.02 5.916 4 9.5 4c1.948 0 3.77.898 5 2.434C15.73 4.898 17.552 4 19.5 4c3.584 0 6.5 3.02 6.5 6.734 0 4.9-6.125 9.96-9.785 12.982zM19.5 5.2c-1.774 0-3.423.923-4.41 2.468a.699.699 0 0 1-.59.323.706.706 0 0 1-.59-.32c-.988-1.54-2.637-2.47-4.41-2.47-2.922 0-5.3 2.49-5.3 5.54 0 4.23 6.19 9.41 9.517 12.19.217.18.566.48.783.66l.952-.79c3.496-2.88 9.348-7.72 9.348-12.05 0-3.05-2.378-5.53-5.3-5.53z"/>
-																																							</svg>
-																																						</span>
-																																					</span>
-																																					<span class="button-activeState">
-																																						<span class="svgIcon svgIcon--heartFilled svgIcon--29px">
-																																							<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																								<path d="M19.5 4c-1.948 0-3.77.898-5 2.434C13.27 4.898 11.448 4 9.5 4 5.916 4 3 7.02 3 10.734c0 4.793 6.227 10 9.95 13.11.296.25.853.723 1.212 1.03.196.166.48.166.677 0 .39-.332 1.02-.87 1.37-1.158 3.66-3.022 9.79-8.08 9.79-12.982C26 7.02 23.08 4 19.5 4z" fill-rule="evenodd"/>
-																																							</svg>
-																																						</span>
-																																					</span>
-																																				</button>
-																																			</div>
-																																		</div>
-																																		<div class="buttonSet-inner">
-																																			<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon"  data-action="respond" data-action-source="post_actions_footer">
-																																				<span class="svgIcon svgIcon--response svgIcon--29px">
-																																					<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																						<path d="M21.27 20.058c1.89-1.826 2.754-4.17 2.754-6.674C24.024 8.21 19.67 4 14.1 4 8.53 4 4 8.21 4 13.384c0 5.175 4.53 9.385 10.1 9.385 1.007 0 2-.14 2.95-.41.285.25.592.49.918.7 1.306.87 2.716 1.31 4.19 1.31.276-.01.494-.14.6-.36a.625.625 0 0 0-.052-.65c-.61-.84-1.042-1.71-1.282-2.58a5.417 5.417 0 0 1-.154-.75zm-3.85 1.324l-.083-.28-.388.12a9.72 9.72 0 0 1-2.85.424c-4.96 0-8.99-3.706-8.99-8.262 0-4.556 4.03-8.263 8.99-8.263 4.95 0 8.77 3.71 8.77 8.27 0 2.25-.75 4.35-2.5 5.92l-.24.21v.32c0 .07 0 .19.02.37.03.29.1.6.19.92.19.7.49 1.4.89 2.08-.93-.14-1.83-.49-2.67-1.06-.34-.22-.88-.48-1.16-.74z"/>
-																																					</svg>
-																																				</span>
-																																			</button>
-																																		</div>
-																																	</div>
-																																	<div class="u-floatRight buttonSet buttonSet--narrow">
-																																		<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon"  title="Share on Twitter" aria-label="Share on Twitter" data-action="share-on-twitter" data-action-source="post_actions_footer">
-																																			<span class="svgIcon svgIcon--twitter svgIcon--29px">
-																																				<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																					<path d="M21.967 11.8c.018 5.93-4.607 11.18-11.177 11.18-2.172 0-4.25-.62-6.047-1.76l-.268.422-.038.5.186.013.168.012c.3.02.44.032.6.046 2.06-.026 3.95-.686 5.49-1.86l1.12-.85-1.4-.048c-1.57-.055-2.92-1.08-3.36-2.51l-.48.146-.05.5c.22.03.48.05.75.08.48-.02.87-.07 1.25-.15l2.33-.49-2.32-.49c-1.68-.35-2.91-1.83-2.91-3.55 0-.05 0-.01-.01.03l-.49-.1-.25.44c.63.36 1.35.57 2.07.58l1.7.04L7.4 13c-.978-.662-1.59-1.79-1.618-3.047a4.08 4.08 0 0 1 .524-1.8l-.825.07a12.188 12.188 0 0 0 8.81 4.515l.59.033-.06-.59v-.02c-.05-.43-.06-.63-.06-.87a3.617 3.617 0 0 1 6.27-2.45l.2.21.28-.06c1.01-.22 1.94-.59 2.73-1.09l-.75-.56c-.1.36-.04.89.12 1.36.23.68.58 1.13 1.17.85l-.21-.45-.42-.27c-.52.8-1.17 1.48-1.92 2L22 11l.016.28c.013.2.014.35 0 .52v.04zm.998.038c.018-.22.017-.417 0-.66l-.498.034.284.41a8.183 8.183 0 0 0 2.2-2.267l.97-1.48-1.6.755c.17-.08.3-.02.34.03a.914.914 0 0 1-.13-.292c-.1-.297-.13-.64-.1-.766l.36-1.254-1.1.695c-.69.438-1.51.764-2.41.963l.48.15a4.574 4.574 0 0 0-3.38-1.484 4.616 4.616 0 0 0-4.61 4.613c0 .29.02.51.08.984l.01.02.5-.06.03-.5c-3.17-.18-6.1-1.7-8.08-4.15l-.48-.56-.36.64c-.39.69-.62 1.48-.65 2.28.04 1.61.81 3.04 2.06 3.88l.3-.92c-.55-.02-1.11-.17-1.6-.45l-.59-.34-.14.67c-.02.08-.02.16 0 .24-.01 2.12 1.55 4.01 3.69 4.46l.1-.49-.1-.49c-.33.07-.67.12-1.03.14-.18-.02-.43-.05-.64-.07l-.76-.09.23.73c.57 1.84 2.29 3.14 4.28 3.21l-.28-.89a8.252 8.252 0 0 1-4.85 1.66c-.12-.01-.26-.02-.56-.05l-.17-.01-.18-.01L2.53 21l1.694 1.07a12.233 12.233 0 0 0 6.58 1.917c7.156 0 12.2-5.73 12.18-12.18l-.002.04z"/>
-																																				</svg>
-																																			</span>
-																																		</button>
-																																		<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon"  title="Share on Facebook" aria-label="Share on Facebook" data-action="share-on-facebook" data-action-source="post_actions_footer">
-																																			<span class="svgIcon svgIcon--facebook svgIcon--29px">
-																																				<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																					<path d="M16.39 23.61v-5.808h1.846a.55.55 0 0 0 .546-.48l.36-2.797a.551.551 0 0 0-.547-.62H16.39V12.67c0-.67.12-.813.828-.813h1.474a.55.55 0 0 0 .55-.55V8.803a.55.55 0 0 0-.477-.545c-.436-.06-1.36-.116-2.22-.116-2.5 0-4.13 1.62-4.13 4.248v1.513H10.56a.551.551 0 0 0-.55.55v2.797c0 .304.248.55.55.55h1.855v5.76c-4.172-.96-7.215-4.7-7.215-9.1 0-5.17 4.17-9.36 9.31-9.36 5.14 0 9.31 4.19 9.31 9.36 0 4.48-3.155 8.27-7.43 9.15M14.51 4C8.76 4 4.1 8.684 4.1 14.46c0 5.162 3.75 9.523 8.778 10.32a.55.55 0 0 0 .637-.543v-6.985a.551.551 0 0 0-.55-.55H11.11v-1.697h1.855a.55.55 0 0 0 .55-.55v-2.063c0-2.02 1.136-3.148 3.03-3.148.567 0 1.156.027 1.597.06v1.453h-.924c-1.363 0-1.93.675-1.93 1.912v1.78c0 .3.247.55.55.55h2.132l-.218 1.69H15.84c-.305 0-.55.24-.55.55v7.02c0 .33.293.59.623.54 5.135-.7 9.007-5.11 9.007-10.36C24.92 8.68 20.26 4 14.51 4"/>
-																																				</svg>
-																																			</span>
-																																		</button>
-																																		<button class="button button--large button--dark button--chromeless is-touchIconFadeInPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon button--bookmark js-bookmarkButton"  title="Bookmark this story to read later" aria-label="Bookmark this story to read later" data-action="add-to-bookmarks" data-action-value="ab763582fa06">
-																																			<span class="button-defaultState">
-																																				<span class="svgIcon svgIcon--bookmark svgIcon--29px">
-																																					<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																						<path d="M19.385 4h-9.77A2.623 2.623 0 0 0 7 6.615V23.01a1.022 1.022 0 0 0 1.595.847l5.905-4.004 5.905 4.004A1.022 1.022 0 0 0 22 23.011V6.62A2.625 2.625 0 0 0 19.385 4zM21 23l-5.91-3.955-.148-.107a.751.751 0 0 0-.884 0l-.147.107L8 23V6.615C8 5.725 8.725 5 9.615 5h9.77C20.275 5 21 5.725 21 6.615V23z" fill-rule="evenodd"/>
-																																					</svg>
-																																				</span>
-																																			</span>
-																																			<span class="button-activeState">
-																																				<span class="svgIcon svgIcon--bookmarkFilled svgIcon--29px">
-																																					<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
-																																						<path d="M19.385 4h-9.77A2.623 2.623 0 0 0 7 6.615V23.01a1.022 1.022 0 0 0 1.595.847l5.905-4.004 5.905 4.004A1.022 1.022 0 0 0 22 23.011V6.62A2.625 2.625 0 0 0 19.385 4z" fill-rule="evenodd"/>
-																																					</svg>
-																																				</span>
-																																			</span>
-																																		</button>
-																																		<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon js-moreActionsButton"  title="More actions" aria-label="More actions" data-action="more-actions" data-action-source="post_page">
-																																			<span class="svgIcon svgIcon--more svgIcon--25px">
-																																				<svg class="svgIcon-use" width="25" height="25"  viewBox="-480.5 272.5 21 21">
-																																					<path d="M-463 284.6c.9 0 1.6-.7 1.6-1.6s-.7-1.6-1.6-1.6-1.6.7-1.6 1.6.7 1.6 1.6 1.6zm0 .9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5zm-7-.9c.9 0 1.6-.7 1.6-1.6s-.7-1.6-1.6-1.6-1.6.7-1.6 1.6.7 1.6 1.6 1.6zm0 .9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5zm-7-.9c.9 0 1.6-.7 1.6-1.6s-.7-1.6-1.6-1.6-1.6.7-1.6 1.6.7 1.6 1.6 1.6zm0 .9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5z"/>
-																																				</svg>
-																																			</span>
-																																		</button>
-																																	</div>
-																																</div>
-																															</div>
-																														</div>
-																														<div class="js-postPromotionWrapper postPromotionWrapper" data-location-id="footer_above_post_attribution">
-																														</div>
-																														<div class="container u-maxWidth740 js-postAttributionFooterContainer">
-																															<div class="u-margin20">
-																															</div>
-																															<div class="row js-postFooterInfo">
-																																<div class="col u-size12of12">
-																																	<li class="card card-user">
-																																		<div class="u-tableCell ">
-																																			<a class="link avatar u-baseColor--link"  href="https://medium.com/@Zomerfeld?source=footer_card" title="Go to the profile of Noam Zomerfeld" aria-label="Go to the profile of Noam Zomerfeld" data-action-source="footer_card" data-user-id="7677911317e6" dir="auto">
-																																				<img  src="https://cdn-images-1.medium.com/fit/c/120/120/0*DNy3cP9ArqSx9DuI.jpg" class="avatar-image avatar-image--small" alt="Go to the profile of Noam Zomerfeld">
-																																			</a>
-																																		</div>
-																																		<div class="card-content">
-																																			<h3 class="card-name">
-																																				<a class="link link--primary u-accentColor--hoverTextNormal"  href="https://medium.com/@Zomerfeld" property="cc:attributionName" title="Go to the profile of Noam Zomerfeld" aria-label="Go to the profile of Noam Zomerfeld" rel="author cc:attributionUrl" data-user-id="7677911317e6" dir="auto">
-																																					Noam Zomerfeld</a>
-																																				</h3>
-																																				<p class="card-description">
-																																					Interaction Designer, Tinkerer and general nerd. Love ambiguity and sometimes have to put it down in writing. Let’s argue for fun and profit.</p>
-																																				</div>
-																																			</li>
-																																		</div>
-																																	</div>
-																																</div>
-																																<div class="js-postBundleWrapper postBundleWrapper">
-																																</div>
-																																<div class="js-postFooterPlacements">
-																																</div>
-																																<div class="responsesWrapper supplementalPostContent js-responsesWrapper">
-																																</div>
-																																<div class="supplementalPostContent js-readNext">
-																																</div>
-																																<div class="supplementalPostContent js-heroPromo">
-																																</div>
-																															</footer>
-																														</article>
-																													</main>
-																												</div>
-																											</div>
-																										</div>
-																										<div class="loadingBar">
-																										</div>
-																										<script>
+																			<div class="buttonSet-inner">
+																				<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon"  data-action="respond" data-action-source="post_actions_footer">
+																					<span class="svgIcon svgIcon--response svgIcon--29px">
+																						<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																							<path d="M21.27 20.058c1.89-1.826 2.754-4.17 2.754-6.674C24.024 8.21 19.67 4 14.1 4 8.53 4 4 8.21 4 13.384c0 5.175 4.53 9.385 10.1 9.385 1.007 0 2-.14 2.95-.41.285.25.592.49.918.7 1.306.87 2.716 1.31 4.19 1.31.276-.01.494-.14.6-.36a.625.625 0 0 0-.052-.65c-.61-.84-1.042-1.71-1.282-2.58a5.417 5.417 0 0 1-.154-.75zm-3.85 1.324l-.083-.28-.388.12a9.72 9.72 0 0 1-2.85.424c-4.96 0-8.99-3.706-8.99-8.262 0-4.556 4.03-8.263 8.99-8.263 4.95 0 8.77 3.71 8.77 8.27 0 2.25-.75 4.35-2.5 5.92l-.24.21v.32c0 .07 0 .19.02.37.03.29.1.6.19.92.19.7.49 1.4.89 2.08-.93-.14-1.83-.49-2.67-1.06-.34-.22-.88-.48-1.16-.74z"/>
+																						</svg>
+																					</span>
+																				</button>
+																			</div>
+																		</div>
+																		<div class="u-floatRight buttonSet buttonSet--narrow">
+																			<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon"  title="Share on Twitter" aria-label="Share on Twitter" data-action="share-on-twitter" data-action-source="post_actions_footer">
+																				<span class="svgIcon svgIcon--twitter svgIcon--29px">
+																					<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																						<path d="M21.967 11.8c.018 5.93-4.607 11.18-11.177 11.18-2.172 0-4.25-.62-6.047-1.76l-.268.422-.038.5.186.013.168.012c.3.02.44.032.6.046 2.06-.026 3.95-.686 5.49-1.86l1.12-.85-1.4-.048c-1.57-.055-2.92-1.08-3.36-2.51l-.48.146-.05.5c.22.03.48.05.75.08.48-.02.87-.07 1.25-.15l2.33-.49-2.32-.49c-1.68-.35-2.91-1.83-2.91-3.55 0-.05 0-.01-.01.03l-.49-.1-.25.44c.63.36 1.35.57 2.07.58l1.7.04L7.4 13c-.978-.662-1.59-1.79-1.618-3.047a4.08 4.08 0 0 1 .524-1.8l-.825.07a12.188 12.188 0 0 0 8.81 4.515l.59.033-.06-.59v-.02c-.05-.43-.06-.63-.06-.87a3.617 3.617 0 0 1 6.27-2.45l.2.21.28-.06c1.01-.22 1.94-.59 2.73-1.09l-.75-.56c-.1.36-.04.89.12 1.36.23.68.58 1.13 1.17.85l-.21-.45-.42-.27c-.52.8-1.17 1.48-1.92 2L22 11l.016.28c.013.2.014.35 0 .52v.04zm.998.038c.018-.22.017-.417 0-.66l-.498.034.284.41a8.183 8.183 0 0 0 2.2-2.267l.97-1.48-1.6.755c.17-.08.3-.02.34.03a.914.914 0 0 1-.13-.292c-.1-.297-.13-.64-.1-.766l.36-1.254-1.1.695c-.69.438-1.51.764-2.41.963l.48.15a4.574 4.574 0 0 0-3.38-1.484 4.616 4.616 0 0 0-4.61 4.613c0 .29.02.51.08.984l.01.02.5-.06.03-.5c-3.17-.18-6.1-1.7-8.08-4.15l-.48-.56-.36.64c-.39.69-.62 1.48-.65 2.28.04 1.61.81 3.04 2.06 3.88l.3-.92c-.55-.02-1.11-.17-1.6-.45l-.59-.34-.14.67c-.02.08-.02.16 0 .24-.01 2.12 1.55 4.01 3.69 4.46l.1-.49-.1-.49c-.33.07-.67.12-1.03.14-.18-.02-.43-.05-.64-.07l-.76-.09.23.73c.57 1.84 2.29 3.14 4.28 3.21l-.28-.89a8.252 8.252 0 0 1-4.85 1.66c-.12-.01-.26-.02-.56-.05l-.17-.01-.18-.01L2.53 21l1.694 1.07a12.233 12.233 0 0 0 6.58 1.917c7.156 0 12.2-5.73 12.18-12.18l-.002.04z"/>
+																					</svg>
+																				</span>
+																			</button>
+																			<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon"  title="Share on Facebook" aria-label="Share on Facebook" data-action="share-on-facebook" data-action-source="post_actions_footer">
+																				<span class="svgIcon svgIcon--facebook svgIcon--29px">
+																					<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																						<path d="M16.39 23.61v-5.808h1.846a.55.55 0 0 0 .546-.48l.36-2.797a.551.551 0 0 0-.547-.62H16.39V12.67c0-.67.12-.813.828-.813h1.474a.55.55 0 0 0 .55-.55V8.803a.55.55 0 0 0-.477-.545c-.436-.06-1.36-.116-2.22-.116-2.5 0-4.13 1.62-4.13 4.248v1.513H10.56a.551.551 0 0 0-.55.55v2.797c0 .304.248.55.55.55h1.855v5.76c-4.172-.96-7.215-4.7-7.215-9.1 0-5.17 4.17-9.36 9.31-9.36 5.14 0 9.31 4.19 9.31 9.36 0 4.48-3.155 8.27-7.43 9.15M14.51 4C8.76 4 4.1 8.684 4.1 14.46c0 5.162 3.75 9.523 8.778 10.32a.55.55 0 0 0 .637-.543v-6.985a.551.551 0 0 0-.55-.55H11.11v-1.697h1.855a.55.55 0 0 0 .55-.55v-2.063c0-2.02 1.136-3.148 3.03-3.148.567 0 1.156.027 1.597.06v1.453h-.924c-1.363 0-1.93.675-1.93 1.912v1.78c0 .3.247.55.55.55h2.132l-.218 1.69H15.84c-.305 0-.55.24-.55.55v7.02c0 .33.293.59.623.54 5.135-.7 9.007-5.11 9.007-10.36C24.92 8.68 20.26 4 14.51 4"/>
+																					</svg>
+																				</span>
+																			</button>
+																			<button class="button button--large button--dark button--chromeless is-touchIconFadeInPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon button--bookmark js-bookmarkButton"  title="Bookmark this story to read later" aria-label="Bookmark this story to read later" data-action="add-to-bookmarks" data-action-value="ab763582fa06">
+																				<span class="button-defaultState">
+																					<span class="svgIcon svgIcon--bookmark svgIcon--29px">
+																						<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																							<path d="M19.385 4h-9.77A2.623 2.623 0 0 0 7 6.615V23.01a1.022 1.022 0 0 0 1.595.847l5.905-4.004 5.905 4.004A1.022 1.022 0 0 0 22 23.011V6.62A2.625 2.625 0 0 0 19.385 4zM21 23l-5.91-3.955-.148-.107a.751.751 0 0 0-.884 0l-.147.107L8 23V6.615C8 5.725 8.725 5 9.615 5h9.77C20.275 5 21 5.725 21 6.615V23z" fill-rule="evenodd"/>
+																						</svg>
+																					</span>
+																				</span>
+																				<span class="button-activeState">
+																					<span class="svgIcon svgIcon--bookmarkFilled svgIcon--29px">
+																						<svg class="svgIcon-use" width="29" height="29" viewBox="0 0 29 29" >
+																							<path d="M19.385 4h-9.77A2.623 2.623 0 0 0 7 6.615V23.01a1.022 1.022 0 0 0 1.595.847l5.905-4.004 5.905 4.004A1.022 1.022 0 0 0 22 23.011V6.62A2.625 2.625 0 0 0 19.385 4z" fill-rule="evenodd"/>
+																						</svg>
+																					</span>
+																				</span>
+																			</button>
+																			<button class="button button--large button--dark button--chromeless is-touchIconBlackPulse u-baseColor--buttonDark button--withIcon button--withSvgIcon js-moreActionsButton"  title="More actions" aria-label="More actions" data-action="more-actions" data-action-source="post_page">
+																				<span class="svgIcon svgIcon--more svgIcon--25px">
+																					<svg class="svgIcon-use" width="25" height="25"  viewBox="-480.5 272.5 21 21">
+																						<path d="M-463 284.6c.9 0 1.6-.7 1.6-1.6s-.7-1.6-1.6-1.6-1.6.7-1.6 1.6.7 1.6 1.6 1.6zm0 .9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5zm-7-.9c.9 0 1.6-.7 1.6-1.6s-.7-1.6-1.6-1.6-1.6.7-1.6 1.6.7 1.6 1.6 1.6zm0 .9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5zm-7-.9c.9 0 1.6-.7 1.6-1.6s-.7-1.6-1.6-1.6-1.6.7-1.6 1.6.7 1.6 1.6 1.6zm0 .9c-1.4 0-2.5-1.1-2.5-2.5s1.1-2.5 2.5-2.5 2.5 1.1 2.5 2.5-1.1 2.5-2.5 2.5z"/>
+																					</svg>
+																				</span>
+																			</button>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="js-postPromotionWrapper postPromotionWrapper" data-location-id="footer_above_post_attribution">
+															</div>
+															<div class="container u-maxWidth740 js-postAttributionFooterContainer">
+																<div class="u-margin20">
+																</div>
+																<div class="row js-postFooterInfo">
+																	<div class="col u-size12of12">
+																		<li class="card card-user">
+																			<div class="u-tableCell ">
+																				<a class="link avatar u-baseColor--link"  href="https://medium.com/@Zomerfeld?source=footer_card" title="Go to the profile of Noam Zomerfeld" aria-label="Go to the profile of Noam Zomerfeld" data-action-source="footer_card" data-user-id="7677911317e6" dir="auto">
+																					<img  src="https://cdn-images-1.medium.com/fit/c/120/120/0*DNy3cP9ArqSx9DuI.jpg" class="avatar-image avatar-image--small" alt="Go to the profile of Noam Zomerfeld">
+																				</a>
+																			</div>
+																			<div class="card-content">
+																				<h3 class="card-name">
+																					<a class="link link--primary u-accentColor--hoverTextNormal"  href="https://medium.com/@Zomerfeld" property="cc:attributionName" title="Go to the profile of Noam Zomerfeld" aria-label="Go to the profile of Noam Zomerfeld" rel="author cc:attributionUrl" data-user-id="7677911317e6" dir="auto">
+																						Noam Zomerfeld</a>
+																					</h3>
+																					<p class="card-description">
+																						Interaction Designer, Tinkerer and general nerd. Love ambiguity and sometimes have to put it down in writing. Let’s argue for fun and profit.</p>
+																					</div>
+																				</li>
+																			</div>
+																		</div>
+																	</div>
+																	<div class="js-postBundleWrapper postBundleWrapper">
+																	</div>
+																	<div class="js-postFooterPlacements">
+																	</div>
+																	<div class="responsesWrapper supplementalPostContent js-responsesWrapper">
+																	</div>
+																	<div class="supplementalPostContent js-readNext">
+																	</div>
+																	<div class="supplementalPostContent js-heroPromo">
+																	</div>
+																</footer>
+															</article>
+														</main>
+													</div>
+												</div>
+											</div>
+											<div class="loadingBar">
+											</div>
+											<script>
 // <![CDATA[
 window["obvInit"] = function (opt_embedded) {window["obvInit"]["embedded"] = opt_embedded; window["obvInit"]["ready"] = true;}
 // ]]>
