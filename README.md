@@ -1,4 +1,4 @@
-</style></head><body><article class="h-entry">
+<body><article class="h-entry">
 <header>
 <h1 class="p-name">This Election — AMBIENT NONSENSE</h1>
 </header>
